@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-02-29T16:59:50Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "P.V.S.AVINASH AS-2"
+        },
+        "Owner": "pampana Avinash <pampanaavinash2548@gmail.com>",
+        "Size": {
+            "X": 77.14,
+            "Y": 43.17
+        }
+    }
+}
